@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mon Site</title>
+</head>
+<body>
+    <div style="text-align: center;">
+        <img src="chemin/vers/votre/image.jpg" alt="Image d'accueil">
+    </div>
+</body>
+</html>
